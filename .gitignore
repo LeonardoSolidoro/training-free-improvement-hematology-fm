@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data
+data/
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Model weights / checkpoints
+weights/
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# External cloned repositories
+external/
+
+# Outputs
+outputs/
+wandb/
+logs/
+jobs/
+.claude/
+AGENTS.md
+
+# OS/editor junk
+.DS_Store
+__MACOSX/
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+*.log
