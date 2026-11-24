@@ -1,0 +1,10 @@
+torch
+torchvision
+torchinfo
+omegaconf
+torchmetrics
+fvcore
+iopath
+submitit
+matplotlib
+scikit-learn
